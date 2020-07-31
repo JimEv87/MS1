@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Ranchers:100,200,300,400,500,600,700');
+
+/*------------------------------------------------Colors */ 
+
+header {
+    background-color: #fff1d7;    
+    }
+
+.about-btn {
+    background-color: #e8b015;
+}
+
+.tour-btn {
+    background-color: #ed1894;
+}
+
+.music-btn {
+    background-color: #123680;
+}
+
+.gallery-btn {
+    background-color: #189e95;
+}
+
+
+/*------------------------------------------------Heading */ 
+.bandname  {
+    font-family: 'Ranchers:400', cursive; 
+    font-size: 75px;
+    font-weight: 700;
+    color: #000000;
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+/*-----heading using incorrect font and link is underlined on hover*/
+
+
+.button {
+    position: relative;
+    display: inline-block;
+    font-family: 'Ranchers', cursive;
+    font-size: 25px;
+    width: 100%;
+    height: 100px;
+    color: #fff1d7;
+    text-align: center;
+    border-radius: 5%;
+    border: none;
+    }
+
+.nav-buttons {
+    padding-left: 50px;
+    padding-right: 50px;
+    }
+/*space between buttons, need 100% width to fill container*/
+
