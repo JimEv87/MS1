@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Ranchers:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Ranchers&display=swap');
 
 /*------------------------------------------------Colors */ 
 
@@ -6,52 +6,105 @@ header {
     background-color: #fff1d7;    
     }
 
-.about-btn {
+.about-link {
     background-color: #e8b015;
 }
 
-.tour-btn {
+.tour-link {
     background-color: #ed1894;
 }
 
-.music-btn {
+.music-link {
     background-color: #123680;
 }
 
-.gallery-btn {
+.gallery-link {
     background-color: #189e95;
 }
 
 
 /*------------------------------------------------Heading */ 
-.bandname  {
-    font-family: 'Ranchers:400', cursive; 
-    font-size: 75px;
-    font-weight: 700;
-    color: #000000;
-    padding-left: 30px;
+
+header {
+    position: fixed;
+    top: 0; 
+    width: 100%;
+}
+
+.row a {
     text-decoration: none;
 }
 
-/*-----heading using incorrect font and link is underlined on hover*/
+.bandname {
+    font-family: 'Ranchers', cursive; 
+    font-size: 75px;
+    font-weight: 400;
+    color: #000000; 
+    padding-left: 50px;
+}
 
 
-.button {
+.link {
     position: relative;
     display: inline-block;
     font-family: 'Ranchers', cursive;
-    font-size: 25px;
-    width: 100%;
+    font-size: 20px;
+    width: 90%;
     height: 100px;
     color: #fff1d7;
     text-align: center;
     border-radius: 5%;
     border: none;
+    padding-top: 40px;    
     }
 
-.nav-buttons {
+.nav-links {
     padding-left: 50px;
     padding-right: 50px;
     }
-/*space between buttons, need 100% width to fill container*/
 
+.col-3 {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+footer {
+    background-color: #ed1894;
+    height: 100px;  
+    width: 100%;
+    position: fixed;
+    bottom:0; 
+    padding: 25px;
+}
+
+.shop-link {
+    background-color: #e8b015;
+    font-family: 'Ranchers', cursive;
+    font-size: 20px;
+    color: #fff1d7;
+    text-align: center;
+    border-radius: 5%;
+    border: none;
+}
+
+
+.contact-link {
+    background-color: #189e95;
+    font-family: 'Ranchers', cursive;
+    font-size: 20px;
+    color: #fff1d7;
+    text-align: center;
+    border-radius: 5%;
+    border: none;
+}
+
+
+.social-links ul {
+    float: left;   
+}
+
+.social-links ul li {
+    float: left;
+    list-style-type: none;
+    padding: 5px;
+}
