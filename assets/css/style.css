@@ -1,10 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Ranchers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Ranchers&family=Roboto+Slab&display=swap');
 
 /*------------------------------------------------Colors */ 
 
-header {
+.bandname {
     background-color: #fff1d7;    
     }
+
+.nav-links {
+    background-color: #fff1d7
+}
 
 .about-link {
     background-color: #e8b015;
@@ -22,27 +26,40 @@ header {
     background-color: #189e95;
 }
 
+.homepage, .reviews, .charity-links {
+    background-color: #fff1d7;
+}
+
+.about-page {
+    background-color: #fff1d7;
+}
 
 /*------------------------------------------------Heading */ 
 
-header {
-    position: fixed;
-    top: 0; 
-    width: 100%;
-}
 
 .row a {
     text-decoration: none;
 }
 
 .bandname {
+    position: fixed;
+    top: 0;
     font-family: 'Ranchers', cursive; 
-    font-size: 75px;
+    font-size: 12vh;
     font-weight: 400;
     color: #000000; 
     padding-left: 50px;
+    z-index: 1;
 }
 
+.nav-links {
+    position: fixed;
+    width: 100vw;
+    z-index: 1;
+    padding-top: 15vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    }
 
 .link {
     position: relative;
@@ -50,31 +67,30 @@ header {
     font-family: 'Ranchers', cursive;
     font-size: 20px;
     width: 90%;
-    height: 100px;
+    height: 10vh;
     color: #fff1d7;
     text-align: center;
     border-radius: 5%;
     border: none;
-    padding-top: 40px;    
+    padding-top: 3vh;    
     }
 
-.nav-links {
-    padding-left: 50px;
-    padding-right: 50px;
-    }
 
-.col-3 {
+
+.nav-link {
     padding-right: 0px;
     padding-left: 0px;
 }
 
+/*------------------------------------------------Footer */ 
+
 footer {
     background-color: #ed1894;
-    height: 100px;  
-    width: 100%;
+    height: 15vh;  
+    width: 100vw;
     position: fixed;
     bottom:0; 
-    padding: 25px;
+    padding: 10px;
 }
 
 .shop-link {
@@ -85,6 +101,7 @@ footer {
     text-align: center;
     border-radius: 5%;
     border: none;
+    padding: 10px 20px;
 }
 
 
@@ -96,15 +113,85 @@ footer {
     text-align: center;
     border-radius: 5%;
     border: none;
+    padding: 10px 20px;
 }
 
-
-.social-links ul {
-    float: left;   
+.social-links {
+    font-size: 25px;
 }
 
-.social-links ul li {
-    float: left;
-    list-style-type: none;
-    padding: 5px;
+.footer-links  {
+    padding: 20px;}
+
+
+/*------------------------------------------------Home page */
+
+.homepage {
+    height: 100vh;
+    text-align: center;
+    position: relative;
+    top: 25vh;
+    padding-top: 15vh;
+    padding-bottom: 5vh;
+}
+
+.homepage div {
+    text-align: center;
+}
+
+.cover-img {
+    height: 250px;
+    width: 250px;
+}
+
+.reviews {
+    padding-top: 5vh;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.reviews h3 {
+    font-family: 'Caveat', cursive;
+}
+
+.charity-links {
+    padding-top: 2vh;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.charity-links a img {
+    height: 75px;
+    width: 75px;
+    display: inline-block;
+    padding: 10px;
+}
+
+@media only screen and (min-width: 992px) {
+    .charity-links a img {
+        display: block;
+    }
+
+/*need to center charity links images in column*/
+
+/*------------------------------------------------About page */
+
+.about-page-image {
+    height: 50%;
+    width: 50%;
+}
+
+.about-page {
+    position: relative;
+    top: 25vh;
+    padding-top: 15vh;
+    padding-bottom: 50vh;
+    font-family: 'Roboto Slab', serif;
+}
+
+.about-page-content {
+    font-family: 'Roboto Slab', serif;
+    font-size: 100px;
 }
