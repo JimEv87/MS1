@@ -34,6 +34,14 @@
     background-color: #fff1d7;
 }
 
+.tour-page {
+    background-color: #fff1d7;
+}
+
+.music-page {
+    background-color: #fff1d7;
+}
+
 /*------------------------------------------------Heading */ 
 
 
@@ -121,7 +129,8 @@ footer {
 }
 
 .footer-links  {
-    padding: 20px;}
+    padding: 20px;
+}
 
 
 /*------------------------------------------------Home page */
@@ -169,29 +178,76 @@ footer {
     padding: 10px;
 }
 
-@media only screen and (min-width: 992px) {
-    .charity-links a img {
-        display: block;
-    }
 
 /*need to center charity links images in column*/
 
 /*------------------------------------------------About page */
 
-.about-page-image {
-    height: 50%;
-    width: 50%;
-}
-
 .about-page {
     position: relative;
     top: 25vh;
-    padding-top: 15vh;
-    padding-bottom: 50vh;
+    padding-top: 5vh;
+    padding-bottom: 20vh;
     font-family: 'Roboto Slab', serif;
+    font-size: large;
 }
 
 .about-page-content {
     font-family: 'Roboto Slab', serif;
-    font-size: 100px;
+    
+}
+
+.about-page-image {
+    height: 200px;
+    width: 300px;
+}
+
+/*------------------------------------------------Tour page */
+
+.tour-page {
+    position: relative;
+    top: 25vh;
+    padding-top: 5vh;
+    padding-bottom: 20vh;
+    font-family: 'Roboto Slab', serif;
+    font-size: large;
+}
+
+.tour-page-image {
+    height: 45vh;
+    width: 70vw;
+}
+
+.no-bullets {
+    list-style-type: none;
+}
+
+
+/*------------------------------------------------Music Page */
+
+.music-page {
+    position: relative;
+    top: 25vh;
+    padding-top: 5vh;
+    padding-bottom: 20vh;
+    font-family: 'Ranchers', cursive;
+    font-size: large;
+}
+
+.music-page img {
+    height: 200px;
+    width: 200px;;
+}
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 992px) {
+    .charity-links a img {
+        display: block;
+    }
 }
