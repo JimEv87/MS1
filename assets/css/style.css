@@ -42,6 +42,14 @@
     background-color: #fff1d7;
 }
 
+.gallery-page {
+    background-color: #fff1d7;
+}
+
+.contact-page {
+    background-color: #fff1d7;
+}
+
 /*------------------------------------------------Heading */ 
 
 
@@ -140,7 +148,7 @@ footer {
     text-align: center;
     position: relative;
     top: 25vh;
-    padding-top: 15vh;
+    padding-top: 5vh;
     padding-bottom: 5vh;
 }
 
@@ -197,7 +205,7 @@ footer {
     
 }
 
-.about-page-image {
+.about-page img {
     height: 200px;
     width: 300px;
 }
@@ -239,11 +247,37 @@ footer {
     width: 200px;;
 }
 
+/*------------------------------------------------Gallery Page */
 
+.gallery-page {
+    position: relative;
+    top: 25vh;
+    padding-top: 5vh;
+    padding-bottom: 20vh;
+    font-family: 'Ranchers', cursive;
+    font-size: large;
+}
 
+.gallery-page img {
+    height: 250px;
+    width: 300px;
+    padding: 5px;
+}
 
+/*------------------------------------------------Contact page */
 
+.contact-page {
+    position: relative;
+    top: 25vh;
+    padding-top: 5vh;
+    padding-bottom: 20vh;
+    font-family: 'Ranchers', cursive;
+    font-size: large;
+}
 
+.contact-page a {
+    margin-top: 10px;
+}
 
 
 @media only screen and (min-width: 992px) {
