@@ -222,13 +222,20 @@ footer {
 }
 
 .tour-page-image {
-    height: 45vh;
-    width: 70vw;
+        height: 45vh;
+        width: 70vw;
 }
 
+@keyframes "tour-image" {
+    from {  height: 25vh;
+            width: 50vw;}
+    to {    height: 45vh;
+            width: 70vw;}
+}
 .no-bullets {
     list-style-type: none;
 }
+
 
 
 /*------------------------------------------------Music Page */
