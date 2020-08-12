@@ -30,15 +30,12 @@ two further fonts from Google Fonts; Caveat which was used to give style to revi
 - As a music promotor and venue owner, I want to be able to contact the band to enquire about bookings
 
 
-<p align="center">
-   <img height="350" src="https://jimev87.github.io/MS1/blob/master/MS1/static/wireframes/MS1wireframe1.png" alt="Index page wireframes">
-</p>
+### Wireframes
 
+I used [Balsamiq](https://balsamiq.com/) to design wireframes for the [here](https://jimev87.github.io/MS1/wireframes/MS1wireframe1.png), [here](https://jimev87.github.io/MS1/wireframes/MS1wireframe1.png), 
+[here](https://jimev87.github.io/MS1/wireframes/MS1wireframe1.png), [here](https://jimev87.github.io/MS1/wireframes/MS1wireframe1.png) and [here](https://jimev87.github.io/MS1/wireframes/MS1wireframe1.png)
+pages.
 
-
-
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either
- be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
 ## Features
 
