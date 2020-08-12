@@ -30,6 +30,10 @@ two further fonts from Google Fonts; Caveat which was used to give style to revi
 - As a music promotor and venue owner, I want to be able to contact the band to enquire about bookings
 
 
+<p align="center">
+   <img height="350" src="https://jimev87.github.io/MS1/blob/master/MS1/static/wireframes/MS1wireframe1.png" alt="Index page wireframes">
+</p>
+
 
 
 
