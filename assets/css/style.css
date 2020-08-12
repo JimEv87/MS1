@@ -50,6 +50,10 @@
     background-color: #fff1d7;
 }
 
+.tour-dates-span {
+    background-color: #e8b015;
+}
+
 /*------------------------------------------------Heading */ 
 
 
@@ -86,7 +90,7 @@
     height: 10vh;
     color: #fff1d7;
     text-align: center;
-    border-radius: 5%;
+    border-radius: 5px;
     border: none;
     padding-top: 3vh;    
     }
@@ -96,6 +100,12 @@
 .nav-link {
     padding-right: 0px;
     padding-left: 0px;
+}
+
+.page-indicator a {
+  text-decoration: underline;
+  
+
 }
 
 /*------------------------------------------------Footer */ 
@@ -206,8 +216,8 @@ footer {
 }
 
 .about-page img {
-    height: 200px;
-    width: 300px;
+    height: 150px;
+    width: 250px;
 }
 
 /*------------------------------------------------Tour page */
@@ -221,21 +231,29 @@ footer {
     font-size: large;
 }
 
-.tour-page-image {
-        height: 45vh;
-        width: 70vw;
+.tour-page img {
+        height: 100px;
+        width: 200px;
 }
 
-@keyframes "tour-image" {
-    from {  height: 25vh;
-            width: 50vw;}
-    to {    height: 45vh;
-            width: 70vw;}
-}
-.no-bullets {
-    list-style-type: none;
+.tour-dates-span {
+    display:table;
+margin:0 auto;
+    border: 2px  #189e95 solid;
+    border-radius: 5px;
+    padding: 5px;
+    width: 250px;
 }
 
+.tour-page span{
+    margin-top: 10px;
+}
+
+.tour-page span i {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
 
 
 /*------------------------------------------------Music Page */
@@ -291,4 +309,22 @@ footer {
     .charity-links a img {
         display: block;
     }
+
+    .about-page img {
+        height: 300px;
+        width: 450px;
+    }
+
+    .tour-page img {
+        height: 300px;
+        width: 600px;
+    }
+
+
+
+
+
+
+
 }
+
