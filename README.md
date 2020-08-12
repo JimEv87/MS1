@@ -32,22 +32,41 @@ two further fonts from Google Fonts; Caveat which was used to give style to revi
 
 ### Wireframes
 
-I used [Balsamiq](https://balsamiq.com/) to design wireframes for the [here](https://jimev87.github.io/MS1/wireframes/MS1wireframe1.png), [here](https://jimev87.github.io/MS1/wireframes/MS1wireframe1.png), 
-[here](https://jimev87.github.io/MS1/wireframes/MS1wireframe1.png), [here](https://jimev87.github.io/MS1/wireframes/MS1wireframe1.png) and [here](https://jimev87.github.io/MS1/wireframes/MS1wireframe1.png)
+I used [Balsamiq](https://balsamiq.com/) to design wireframes for the [Home](https://github.com/JimEv87/MS1/blob/master/assets/wireframes/MS1wireframe1.png), [About](https://github.com/JimEv87/MS1/blob/master/assets/wireframes/MS1wireframe2.png), 
+[Tour](https://github.com/JimEv87/MS1/blob/master/assets/wireframes/MS1wireframe3.png), [Music](https://github.com/JimEv87/MS1/blob/master/assets/wireframes/MS1wireframe4.png) and [Gallery](https://github.com/JimEv87/MS1/blob/master/assets/wireframes/MS1wireframe5.png)
 pages.
 
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+### Heading
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+There is a strong and eye catching header that remains at the top of the browser on every page to maintain a consistant style and also aid intuative navigation. The header consists
+of the band name, which also acts as a link to the Home page, above four dual function over-sized navigation links which navigate the website and also imprint the band’s signature
+stylings onto every page. Each navigation link becomes highlighted with a subtle underline when that page is in use, which assists the user in knowing their place on the website.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+### Footer
+
+Like the header, the footer provides style as well as function so it is pinned to the bottom of the browser on every page.  Coloured in a strong & vibrant pink, the brightest of 
+the band's signature colours, the footer brings much needed colour and energy to the website.  
+The footer contains:
+- a link to the band's merchandise shop https://thesnuts.bigcartel.com/
+- links to the band's social media pages using universally recognised icons provided by [Font Awesome](https://fontawesome.com/)
+- has a link to the contact page.  
+
+### Home Page
+
+### About Page
+
+### Tour Page
+
+### Music Page
+
+### Gallery Page
+
+
+
+
 
 ### Features Left to Implement
 - Another feature idea
