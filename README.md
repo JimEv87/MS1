@@ -79,9 +79,9 @@ The footer contains:
 
 - A display of twelve photos of the band performing live
 
-### Features Left to Implement
+## Features Left to Implement
 
-- Another feature idea
+A carousel type feature to showcase the varies singles and album artwork
 
 ## Technologies Used
 
