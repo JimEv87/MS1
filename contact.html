@@ -16,6 +16,9 @@
   </head>
 
   <body>
+
+  <!--Navigation-->
+
     <header>
       <div class="container"></div>
       <div class="container-fluid">
@@ -34,6 +37,9 @@
           </div>
         </div>
       </div>
+
+      <!--Header-->
+      
       <div class="row">
         <a href="index.html" class="col-12">
           <h1 class="bandname">The Snuts</h1>
@@ -41,11 +47,13 @@
       </div>
     </header>
 
+<!--Contact page - code for form taken from https://mdbootstrap.com/docs/jquery/forms/contact/#html-->
+
     <section>
-        <!--Form taken from https://mdbootstrap.com/docs/jquery/forms/contact/#html-->
+        
 
       <div class="container-fluid contact-page">
-        <h2 class="h1-responsive font-weight-bold text-center my-4">
+        <h2 class="h1-responsive font-weight-bold my-4">
           Contact us
         </h2>
 
@@ -64,7 +72,7 @@
                     <input
                       type="text"
                       id="name"
-                      name="name"
+                      name="name" required
                       class="form-control"
                     />
                   </div>
@@ -76,7 +84,7 @@
                     <input
                       type="text"
                       id="email"
-                      name="email"
+                      name="email" required
                       class="form-control"
                     />
                   </div>
@@ -84,14 +92,14 @@
               </div>
 
               <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-12 ">
                   <div class="md-form">
                     <label for="message">Your message</label>
                     <textarea
                       type="text"
                       id="message"
-                      name="message"
-                      rows="2"
+                      name="message" required
+                      rows="10"
                       class="form-control md-textarea"
                     ></textarea>
                   </div>
@@ -112,10 +120,15 @@
       </div>
     </section>
 
+    <!--Footer-->
+
     <footer>
       <div class="container-fluid">
         <div class="row footer-links">
-          <div class="col-3 text-center align-self-center">
+
+    <!--Shop link-->
+
+          <div class="col-4 text-center align-self-center">
             <a
               href="https://thesnuts.bigcartel.com/"
               target="_blank"
@@ -124,7 +137,9 @@
             >
           </div>
 
-          <div class="col-6">
+    <!--Social media links-->
+
+          <div class="col-4">
             <div class="social-links text-center">
               <a
                 href="https://www.facebook.com/TheSnutsOfficial/"
@@ -160,7 +175,9 @@
             </div>
           </div>
 
-          <div class="col-3 text-center align-self-center footer-link">
+    <!--Contact link-->
+
+          <div class="col-4 text-center align-self-center">
             <a href="contact.html" class="contact-link">Contact</a>
           </div>
         </div>

@@ -56,19 +56,31 @@ The footer contains:
 
 ### Home Page
 
+- An image featuring the artwork from the band's first album.  Clicking the image takes the user to an external website where the album can be purchased.
+- Review quotes
+- Links to music industry campaign's and charity appeals  
+
 ### About Page
+
+- Information about the band 
+- Two promotional pictures of the band
 
 ### Tour Page
 
+- An image of the band's promotion of their 2021 tour
+- Information about the tour including live links to google maps and ticket websites
+
 ### Music Page
+
+- A display of the artwork used for all 6 of the band's released singles
+- Live links to listen/view each song on Spotify, Apple Music and YouTube
 
 ### Gallery Page
 
-
-
-
+- A display of twelve photos of the band performing live
 
 ### Features Left to Implement
+
 - Another feature idea
 
 ## Technologies Used

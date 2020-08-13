@@ -1,330 +1,351 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Ranchers&family=Roboto+Slab&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Ranchers&family=Roboto+Slab&display=swap");
 
-/*------------------------------------------------Colors */ 
+/*------------------------------------------------Colors */
 
 .bandname {
-    background-color: #fff1d7;    
-    }
+  background-color: #fff1d7;
+}
 
 .nav-links {
-    background-color: #fff1d7
+  background-color: #fff1d7;
 }
 
 .about-link {
-    background-color: #e8b015;
+  background-color: #e8b015;
 }
 
 .tour-link {
-    background-color: #ed1894;
+  background-color: #ed1894;
 }
 
 .music-link {
-    background-color: #123680;
+  background-color: #123680;
 }
 
 .gallery-link {
-    background-color: #189e95;
+  background-color: #189e95;
 }
 
-.homepage, .reviews, .charity-links {
-    background-color: #fff1d7;
+.homepage,
+.reviews,
+.charity-links {
+  background-color: #fff1d7;
 }
 
 .about-page {
-    background-color: #fff1d7;
+  background-color: #fff1d7;
 }
 
 .tour-page {
-    background-color: #fff1d7;
+  background-color: #fff1d7;
 }
 
 .music-page {
-    background-color: #fff1d7;
+  background-color: #fff1d7;
 }
 
 .gallery-page {
-    background-color: #fff1d7;
+  background-color: #fff1d7;
 }
 
 .contact-page {
-    background-color: #fff1d7;
+  background-color: #fff1d7;
 }
 
 .tour-dates-span {
-    background-color: #e8b015;
+  background-color: #e8b015;
 }
 
-/*------------------------------------------------Heading */ 
-
+/*------------------------------------------------Heading */
 
 .row a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .bandname {
-    position: fixed;
-    top: 0;
-    font-family: 'Ranchers', cursive; 
-    font-size: 12vh;
-    font-weight: 400;
-    color: #000000; 
-    padding-left: 50px;
-    z-index: 1;
+  position: fixed;
+  top: 0;
+  font-family: "Ranchers", cursive;
+  font-size: 10vh;
+  font-weight: 400;
+  color: #000000;
+  padding-left: 30px;
+  z-index: 1;
 }
 
 .nav-links {
-    position: fixed;
-    width: 100vw;
-    z-index: 1;
-    padding-top: 15vh;
-    padding-left: 50px;
-    padding-right: 50px;
-    }
+  position: fixed;
+  width: 100vw;
+  z-index: 1;
+  padding-top: 12vh;
+  padding-left: 30px;
+  padding-right: 30px;
+}
 
 .link {
-    position: relative;
-    display: inline-block;
-    font-family: 'Ranchers', cursive;
-    font-size: 20px;
-    width: 90%;
-    height: 10vh;
-    color: #fff1d7;
-    text-align: center;
-    border-radius: 5px;
-    border: none;
-    padding-top: 3vh;    
-    }
-
-
+  position: relative;
+  display: inline-block;
+  font-family: "Ranchers", cursive;
+  font-size: 20px;
+  width: 90%;
+  height: 10vh;
+  color: #fff1d7;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  padding-top: 3vh;
+}
 
 .nav-link {
-    padding-right: 0px;
-    padding-left: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 .page-indicator a {
   text-decoration: underline;
-  
-
 }
 
-/*------------------------------------------------Footer */ 
+/*------------------------------------------------Footer */
 
 footer {
-    background-color: #ed1894;
-    height: 15vh;  
-    width: 100vw;
-    position: fixed;
-    bottom:0; 
-    padding: 10px;
+  background-color: #ed1894;
+  height: 13vh;
+  width: 100vw;
+  position: fixed;
+  bottom: 0;
+  padding: 10px;
 }
 
 .shop-link {
-    background-color: #e8b015;
-    font-family: 'Ranchers', cursive;
-    font-size: 20px;
-    color: #fff1d7;
-    text-align: center;
-    border-radius: 5%;
-    border: none;
-    padding: 10px 20px;
+  background-color: #e8b015;
+  font-family: "Ranchers", cursive;
+  font-size: 20px;
+  color: #fff1d7;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 20px;
 }
 
-
 .contact-link {
-    background-color: #189e95;
-    font-family: 'Ranchers', cursive;
-    font-size: 20px;
-    color: #fff1d7;
-    text-align: center;
-    border-radius: 5%;
-    border: none;
-    padding: 10px 20px;
+  background-color: #189e95;
+  font-family: "Ranchers", cursive;
+  font-size: 20px;
+  color: #fff1d7;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 15px;
 }
 
 .social-links {
-    font-size: 25px;
+  font-size: 15px;
 }
 
-.footer-links  {
-    padding: 20px;
+.footer-links {
+  padding-top: 2vh;
 }
-
 
 /*------------------------------------------------Home page */
 
 .homepage {
-    height: 100vh;
-    text-align: center;
-    position: relative;
-    top: 25vh;
-    padding-top: 5vh;
-    padding-bottom: 5vh;
+  height: 100vh;
+  text-align: center;
+  position: relative;
+  top: 20vh;
+  padding-top: 5vh;
+  padding-bottom: 5vh;
 }
 
 .homepage div {
-    text-align: center;
+  text-align: center;
 }
 
 .cover-img {
-    height: 250px;
-    width: 250px;
+  height: 250px;
+  width: 250px;
 }
 
 .reviews {
-    padding-top: 5vh;
+  padding-top: 3vh;
 }
 
 .bold {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .reviews h3 {
-    font-family: 'Caveat', cursive;
+  font-family: "Caveat", cursive;
 }
 
 .charity-links {
-    padding-top: 2vh;
-    padding-bottom: 100px;
-    text-align: center;
+  padding-top: 2vh;
+  padding-bottom: 100px;
+  text-align: center;
 }
 
 .charity-links a img {
-    height: 75px;
-    width: 75px;
-    display: inline-block;
-    padding: 10px;
+  height: 75px;
+  width: 75px;
+  display: inline-block;
+  padding: 10px;
 }
-
 
 /*need to center charity links images in column*/
 
 /*------------------------------------------------About page */
 
 .about-page {
-    position: relative;
-    top: 25vh;
-    padding-top: 5vh;
-    padding-bottom: 20vh;
-    font-family: 'Roboto Slab', serif;
-    font-size: large;
+  position: relative;
+  top: 20vh;
+  padding-top: 5vh;
+  padding-bottom: 20vh;
+  font-family: "Roboto Slab", serif;
+  font-size: large;
 }
 
 .about-page-content {
-    font-family: 'Roboto Slab', serif;
-    
+  font-family: "Roboto Slab", serif;
 }
 
 .about-page img {
-    height: 150px;
-    width: 250px;
+  height: 150px;
+  width: 250px;
+  border: 2px solid #fff1d7;
+  box-shadow: 10px 5px 5px #ccc;
+  -moz-box-shadow: 10px 5px 5px #ccc;
+  -webkit-box-shadow: 10px 5px 5px #ccc;
 }
 
 /*------------------------------------------------Tour page */
 
 .tour-page {
-    position: relative;
-    top: 25vh;
-    padding-top: 5vh;
-    padding-bottom: 20vh;
-    font-family: 'Roboto Slab', serif;
-    font-size: large;
+  position: relative;
+  top: 20vh;
+  padding-top: 5vh;
+  padding-bottom: 20vh;
+  font-family: "Roboto Slab", serif;
+  font-size: large;
 }
 
 .tour-page img {
-        height: 100px;
-        width: 200px;
+  height: 100px;
+  width: 200px;
 }
 
 .tour-dates-span {
-    display:table;
-margin:0 auto;
-    border: 2px  #189e95 solid;
-    border-radius: 5px;
-    padding: 5px;
-    width: 250px;
+  display: table;
+  margin: 0 auto;
+  border: 2px #189e95 solid;
+  border-radius: 5px;
+  padding: 5px;
+  width: 250px;
 }
 
-.tour-page span{
-    margin-top: 10px;
+.tour-page span {
+  margin-top: 10px;
 }
 
 .tour-page span i {
-    font-size: 30px;
-    margin-left: 20px;
-    margin-right: 20px;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
-
 
 /*------------------------------------------------Music Page */
 
 .music-page {
-    position: relative;
-    top: 25vh;
-    padding-top: 5vh;
-    padding-bottom: 20vh;
-    font-family: 'Ranchers', cursive;
-    font-size: large;
+  position: relative;
+  top: 20vh;
+  padding-top: 5vh;
+  padding-bottom: 20vh;
+  font-family: "Ranchers", cursive;
+  font-size: large;
 }
 
 .music-page img {
-    height: 200px;
-    width: 200px;;
+  height: 200px;
+  width: 200px;
 }
 
+.music-page p {
+  font-size: 20px;
+}
+
+.music-page p i {
+  margin-left: 5px;
+  margin-right: 5px;
+}
 /*------------------------------------------------Gallery Page */
 
 .gallery-page {
-    position: relative;
-    top: 25vh;
-    padding-top: 5vh;
-    padding-bottom: 20vh;
-    font-family: 'Ranchers', cursive;
-    font-size: large;
+  position: relative;
+  top: 20vh;
+  padding-top: 5vh;
+  padding-bottom: 20vh;
+  font-family: "Ranchers", cursive;
+  font-size: large;
 }
 
 .gallery-page img {
-    height: 250px;
-    width: 300px;
-    padding: 5px;
+  height: 250px;
+  width: 300px;
+  padding: 5px;
 }
 
 /*------------------------------------------------Contact page */
 
 .contact-page {
-    position: relative;
-    top: 25vh;
-    padding-top: 5vh;
-    padding-bottom: 20vh;
-    font-family: 'Ranchers', cursive;
-    font-size: large;
+  position: relative;
+  top: 20vh;
+  padding-top: 5vh;
+  padding-bottom: 20vh;
+  font-family: "Ranchers", cursive;
+  font-size: large;
 }
 
 .contact-page a {
-    margin-top: 10px;
+  margin-top: 10px;
 }
-
 
 @media only screen and (min-width: 992px) {
-    .charity-links a img {
-        display: block;
-    }
+  .charity-links a img {
+    display: block;
+  }
 
-    .about-page img {
-        height: 300px;
-        width: 450px;
-    }
+  .about-page img {
+    height: 300px;
+    width: 450px;
+  }
 
-    .tour-page img {
-        height: 300px;
-        width: 600px;
-    }
+  .tour-page img {
+    height: 300px;
+    width: 600px;
+  }
 
+  .music-page img {
+    height: 250px;
+    width: 250px;
+  }
 
+  .link {
+    font-size: 30px;
+    letter-spacing: 3px;
+  }
 
+  .social-links {
+    font-size: 30px;
+  }
 
+  .social-links i {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 
-
-
+  .shop-link,
+  .contact-link {
+    padding: 10px 50px;
+    font-size: 25px;
+    letter-spacing: 2px;
+  }
 }
-
