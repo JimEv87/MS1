@@ -1,5 +1,7 @@
 # The Snuts
 
+![Image of the project on various devices](https://github.com/JimEv87/MS1/blob/master/assets/images/AmIresponsive.PNG)
+
 For my User Centric Frontend Development Milestone Project I have decided to create a website for one of my favourite new bands The Snuts. 
 You can view my project [here](https://jimev87.github.io/MS1/)
 
