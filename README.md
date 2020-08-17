@@ -90,22 +90,14 @@ The footer contains:
 
 ## Technologies Used
 
-- [Balsamiq](https://balsamiq.com/)
-    - to design the wireframes
-- [HTML5](https://en.wikipedia.org/wiki/HTML5)
-    - to structure and present the content
-- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-    - to style the content
-- [GitHub](https://github.com/)
-    - to host the project
-- [GitPod](https://gitpod.io/)
-    - to develop the project
-- [Image Color Picker](https://imagecolorpicker.com/en/)
-    - to select the colours
-- [Google Fonts](https://fonts.google.com/)
-    - to provide the fonts
-- [Font Awesome](https://fontawesome.com/)
-    - to provide the icons
+- [Balsamiq](https://balsamiq.com/) to design the wireframes
+- [HTML5](https://en.wikipedia.org/wiki/HTML5) to structure and present the content
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) to style the content
+- [GitHub](https://github.com/) to host the project
+- [GitPod](https://gitpod.io/) to develop the project
+- [Image Color Picker](https://imagecolorpicker.com/en/) to select the colours
+- [Google Fonts](https://fonts.google.com/) to provide the fonts
+- [Font Awesome](https://fontawesome.com/) to provide the icons
 
 
 ## Testing
@@ -135,6 +127,7 @@ I used only one branch for this project.
 ### Content
 - The text for the About pages was taken from the [Daily Star](https://www.dailystar.co.uk/music/snuts-interview-indie-chartbusters-mixtape-22009762) 
 [Last.fm](https://www.last.fm/music/The+Snuts) and [Scottish Music Network](http://www.scottishmusicnetwork.co.uk/the-snuts-continue-their-stampede-with-new-single-elephants/)
+- The contact form was taken from https://mdbootstrap.com/docs/jquery/forms/contact and customised for purpose
 
 ### Media
 The photos used in this site were obtained from:
