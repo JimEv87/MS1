@@ -52,7 +52,7 @@ the band's signature colours, the footer brings much needed colour and energy to
 The footer contains:
 - a link to the band's merchandise shop https://thesnuts.bigcartel.com/
 - links to the band's social media pages using universally recognised icons provided by [Font Awesome](https://fontawesome.com/)
-- has a link to the contact page.  
+- has a link to the contact page (non-functioning).  
 
 ### Home Page
 
@@ -81,39 +81,33 @@ The footer contains:
 
 ## Features Left to Implement
 
-A carousel type feature to showcase the varies singles and album artwork
+- A carousel type feature to showcase the varies singles and album artwork
+- Add more pictures to the Gallery
+- Add a fans gig review section
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name,
- a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+- [Balsamiq](https://balsamiq.com/)
+    - to design the wireframes
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+    - to structure and present the content
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+    - to style the content
+- [GitHub](https://github.com/)
+    - to host the project
+- [GitPod](https://gitpod.io/)
+    - to develop the project
+- [Image Color Picker](https://imagecolorpicker.com/en/)
+    - to select the colours
+- [Google Fonts](https://fonts.google.com/)
+    - to provide the fonts
+- [Font Awesome](https://fontawesome.com/)
+    - to provide the icons
 
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will 
-want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users
- to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing
- process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+Testing log can be seen [here](#)
 
 ## Deployment
 
