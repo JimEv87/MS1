@@ -84,6 +84,7 @@ The footer contains:
 - A carousel type feature to showcase the varies singles and album artwork
 - Add more pictures to the Gallery
 - Add a fans gig review section
+- Add more content to the About page, possibly an interview
 
 ## Technologies Used
 
@@ -111,24 +112,50 @@ Testing log can be seen [here](#)
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+This project was deployed to GitHub pages as follows:
+1. Login to GitHub and open the repository
+2. Click on Settings
+3. Scroll down to the GitHub Pages 
+4. Below Source, change the drop-down selection from None to Master Branch
+5. The automatically refreshes and the site is now deployed
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+I used only one branch for this project.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+### To Make a Clone:
+
+1. Click on 'Code' in the GitHub repository menu and copy the given URL  
+2. In your command prompt type 'cd' followed by the director you wish to store your repository in and press enter
+3. In your command prompt type 'git clone' followed by the URL copied in step 1 
 
 
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- The text for the About pages was taken from the [Daily Star](https://www.dailystar.co.uk/music/snuts-interview-indie-chartbusters-mixtape-22009762) 
+[Last.fm](https://www.last.fm/music/The+Snuts) and [Scottish Music Network](http://www.scottishmusicnetwork.co.uk/the-snuts-continue-their-stampede-with-new-single-elephants/)
 
 ### Media
-- The photos used in this site were obtained from ...
+The photos used in this site were obtained from:
+ - [Discogs](https://www.discogs.com/The-Snuts-Mixtape-EP/release/14919527)
+ - [TotalNtertainment.com](https://www.totalntertainment.com/music/the-snuts-release-brand-new-single-all-your-friends/)
+ - [myTicket.co.uk](https://myticket.co.uk/artists/the-snuts)
+ - [Genius.com](https://genius.com/artists/The-snuts)
+ - [list.co.uk](https://www.list.co.uk/article/113349-the-snuts-our-live-show-is-always-growing-in-anthems-and-atmosphere-which-translates-perfectly-to-festival-crowds/)
+ - [thecourieronline](http://www.thecourieronline.co.uk/ones-to-watch-the-snuts/)
+ - [gigslutz](http://www.gigslutz.co.uk/live-the-snuts-the-sugarmill-stoke-21-09-19/)
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+I received inspiration for this project from The Snuts. Thanks to:
+
+ - [Precious Ljege](https://www.linkedin.com/in/precious-ijege-908a00168/?originalSubdomain=ng) for invaluable mentoring advice
+
+ - The Code Institute tutor suport team for technical coding advice 
+
+ - [W3 Schools](https://www.w3schools.com/)
+
+ - [StackOverflow](https://stackoverflow.com/)
+
+ - The Code Institute Slack community
+
+ - Sara, Ffion and Ted for helping with testing on various devices, providing feedback and much appreciated support
