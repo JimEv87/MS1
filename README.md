@@ -98,11 +98,12 @@ The footer contains:
 - [Image Color Picker](https://imagecolorpicker.com/en/) to select the colours
 - [Google Fonts](https://fonts.google.com/) to provide the fonts
 - [Font Awesome](https://fontawesome.com/) to provide the icons
+- [Am I Responsive?](https://fontawesome.com/) to visually display the responsiveness of the website
 
 
 ## Testing
 
-Testing log can be seen [here](https://github.com/JimEv87/MS1/blob/master/testing.md)
+As well as my own thorough testing, the website has been tested by friends and family and the feedback was that the site looks good and is easy to navigate, all images, links and features work well on a wide variety of devices and browsers.  The full esting log can be seen [here](https://github.com/JimEv87/MS1/blob/master/testing.md)
 
 ## Deployment
 
