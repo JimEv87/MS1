@@ -41,13 +41,15 @@ pages.
 
 ## Features
 
-### Heading
+### Existing Features
+
+#### Heading
 
 There is a strong and eye catching header that remains at the top of the browser on every page to maintain a consistant style and also aid intuative navigation. The header consists
 of the band name, which also acts as a link to the Home page, above four dual function over-sized navigation links which navigate the website and also imprint the band’s signature
 stylings onto every page. Each navigation link becomes highlighted with a subtle underline when that page is in use, which assists the user in knowing their place on the website.
 
-### Footer
+#### Footer
 
 Like the header, the footer provides style as well as function so it is pinned to the bottom of the browser on every page.  Coloured in a strong & vibrant pink, the brightest of 
 the band's signature colours, the footer brings much needed colour and energy to the website.  
@@ -56,32 +58,32 @@ The footer contains:
 - links to the band's social media pages using universally recognised icons provided by [Font Awesome](https://fontawesome.com/)
 - has a link to the contact page (non-functioning).  
 
-### Home Page
+#### Home Page
 
 - An image featuring the artwork from the band's first album.  Clicking the image takes the user to an external website where the album can be purchased.
 - Review quotes
 - Links to music industry campaign's and charity appeals  
 
-### About Page
+#### About Page
 
 - Information about the band 
 - Two promotional pictures of the band
 
-### Tour Page
+#### Tour Page
 
 - An image of the band's promotion of their 2021 tour
 - Information about the tour including live links to google maps and ticket websites
 
-### Music Page
+#### Music Page
 
 - A display of the artwork used for all 6 of the band's released singles
 - Live links to listen/view each song on Spotify, Apple Music and YouTube
 
-### Gallery Page
+#### Gallery Page
 
 - A display of twelve photos of the band performing live
 
-## Features Left to Implement
+### Features Left to Implement
 
 - A carousel type feature to showcase the varies singles and album artwork
 - Add more pictures to the Gallery
@@ -144,7 +146,7 @@ The photos used in this site were obtained from:
 
 I received inspiration for this project from The Snuts. Thanks to:
 
- - [Precious Ljege](https://www.linkedin.com/in/precious-ijege-908a00168/?originalSubdomain=ng) for invaluable mentoring advice
+ - [Precious Ijege](https://www.linkedin.com/in/precious-ijege-908a00168/?originalSubdomain=ng) for invaluable mentoring advice
 
  - The Code Institute tutor suport team for technical coding advice 
 

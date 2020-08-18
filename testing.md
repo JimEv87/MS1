@@ -21,6 +21,8 @@ The website has been tested for compatibility on five different browsers.
 
 ![Image of browser compatability testing](https://github.com/JimEv87/MS1/blob/master/assets/images/Testing/browsertesting.PNG)
 
+Note - All testing covers functionalities and appearance
+
 ## Responsiveness Testing
 
 The website has been tested for responsiveness on several devices.  All pages render as expected, all images display correctly and all links work.

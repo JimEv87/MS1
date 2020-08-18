@@ -215,6 +215,10 @@ footer {
   -webkit-box-shadow: 10px 5px 5px #ccc;
 }
 
+.about-page p {
+    margin-top: 10px;
+}
+
 /*------------------------------------------------Tour page */
 
 .tour-page {
@@ -306,7 +310,13 @@ footer {
   margin-top: 10px;
 }
 
-@media only screen and (min-width: 992px) {
+.send-button {
+    margin-top: 10px;
+}
+
+/*------------------------------------------------Media Queries */
+
+@media only screen and (min-width: 768px) {
   .charity-links a img {
     display: block;
     margin: auto;
@@ -349,4 +359,14 @@ footer {
     font-size: 25px;
     letter-spacing: 2px;
   }
+
+  .contact-page {
+      padding-top: 15vh;
+  }
+
 }
+
+@media screen and (max-width: 992px) and (min-width: 768px) {
+  .charity-links {
+      display: none;
+  }
