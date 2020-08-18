@@ -34,8 +34,8 @@ two further fonts from Google Fonts; Caveat which was used to give style to revi
 
 ### Wireframes
 
-I used [Balsamiq](https://balsamiq.com/) to design wireframes for the [Home](https://github.com/JimEv87/MS1/blob/master/assets/wireframes/MS1wireframe1.png), [About](https://github.com/JimEv87/MS1/blob/master/assets/wireframes/MS1wireframe2.png), 
-[Tour](https://github.com/JimEv87/MS1/blob/master/assets/wireframes/MS1wireframe3.png), [Music](https://github.com/JimEv87/MS1/blob/master/assets/wireframes/MS1wireframe4.png) and [Gallery](https://github.com/JimEv87/MS1/blob/master/assets/wireframes/MS1wireframe5.png)
+I used [Balsamiq](https://balsamiq.com/) to design wireframes for the [Home](https://github.com/JimEv87/MS1/blob/master/wireframes/MS1wireframe1.png), [About](https://github.com/JimEv87/MS1/blob/master/wireframes/MS1wireframe2.png), 
+[Tour](https://github.com/JimEv87/MS1/blob/master/wireframes/MS1wireframe3.png), [Music](https://github.com/JimEv87/MS1/blob/master/wireframes/MS1wireframe4.png) and [Gallery](https://github.com/JimEv87/MS1/blob/master/wireframes/MS1wireframe5.png)
 pages.
 
 

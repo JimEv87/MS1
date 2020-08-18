@@ -4,22 +4,22 @@
 
 All HTML code has passed [HTML Validation](https://validator.w3.org/#validate_by_input) 
 
-![Image of validated code for index page](https://github.com/JimEv87/MS1/blob/master/assets/images/Testing/HTMLCheckerIndex.PNG)
-![Image of validated code for about page](https://github.com/JimEv87/MS1/blob/master/assets/images/Testing/HTMLCheckerAbout.PNG)
-![Image of validated code for tour page](https://github.com/JimEv87/MS1/blob/master/assets/images/Testing/HTMLCheckerTour.PNG)
-![Image of validated code for music page](https://github.com/JimEv87/MS1/blob/master/assets/images/Testing/HTMLCheckerMusic.PNG)
-![Image of validated code for gallery page](https://github.com/JimEv87/MS1/blob/master/assets/images/Testing/HTMLCheckerGallery.PNG)
-![Image of validated code for contact page](https://github.com/JimEv87/MS1/blob/master/assets/images/Testing/HTMLCheckerContact.PNG)
+![Image of validated code for index page](https://github.com/JimEv87/MS1/blob/master/testing/HTMLCheckerIndex.PNG)
+![Image of validated code for about page](https://github.com/JimEv87/MS1/blob/master/testing/HTMLCheckerAbout.PNG)
+![Image of validated code for tour page](https://github.com/JimEv87/MS1/blob/master/testing/HTMLCheckerTour.PNG)
+![Image of validated code for music page](https://github.com/JimEv87/MS1/blob/master/testing/HTMLCheckerMusic.PNG)
+![Image of validated code for gallery page](https://github.com/JimEv87/MS1/blob/master/testing/HTMLCheckerGallery.PNG)
+![Image of validated code for contact page](https://github.com/JimEv87/MS1/blob/master/testing/HTMLCheckerContact.PNG)
 
 CSS code passed [CSS Validation](https://jigsaw.w3.org/css-validator/)
 
-![Image of validated CSS](https://github.com/JimEv87/MS1/blob/master/assets/images/Testing/CSSChecker.PNG)
+![Image of validated CSS](https://github.com/JimEv87/MS1/blob/master/assets/testing/CSSChecker.PNG)
 
 ## Browser Testing
 
 The website has been tested for compatibility on five different browsers.  
 
-![Image of browser compatability testing](https://github.com/JimEv87/MS1/blob/master/assets/images/Testing/browsertesting.PNG)
+![Image of browser compatability testing](https://github.com/JimEv87/MS1/blob/master/testing/browsertesting.PNG)
 
 Note - All testing covers functionalities and appearance
 
@@ -27,7 +27,7 @@ Note - All testing covers functionalities and appearance
 
 The website has been tested for responsiveness on several devices.  All pages render as expected, all images display correctly and all links work.
 
-![Image of responsiveness testing](https://github.com/JimEv87/MS1/blob/master/assets/images/Testing/restesting.PNG)
+![Image of responsiveness testing](https://github.com/JimEv87/MS1/blob/master/testing/restesting.PNG)
 
 Note - when displayed in landscape mode on mobile the footer is slightly impeded 
 
