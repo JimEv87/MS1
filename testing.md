@@ -43,21 +43,21 @@ the website's styling so instead of removing or replacing the image I used a med
 ## User Story Testing
 
 - As a user, I want to be able to navigate the website easily
- - the fixed header and footer makes navigation easy
+  - the fixed header and footer makes navigation easy
 - As a music lover, I want to find out who The Snuts are (where are they from? What kind of music do the play? How long have they been together?)
- - the about page informs the user of the key facts about the band
+  - the about page informs the user of the key facts about the band
 - As a music lover, I want to find out about their songs and where to listen to them?
- - the music page displays the artwork for the band's singles and gives direct links to listen/view on Spotify, Apple and YouTube
+  - the music page displays the artwork for the band's singles and gives direct links to listen/view on Spotify, Apple and YouTube
 - As a Snuts fan, I want to find out when and where they are playing and how can I purchase tickets?
- - the tour page gives details of the upcoming tour with handy links to ticketing websites and location maps
+  - the tour page gives details of the upcoming tour with handy links to ticketing websites and location maps
 - As a Snuts fan, I want to be able to view pictures of the band and of gigs they’ve done
- - the gallery shows off lots of pictures of the band in action
+  - the gallery shows off lots of pictures of the band in action
 - As a Snuts fan, I want to find out if they have any merchandise for sale
- - the Shop link in the footer opens the band's merchandise website in a new tab
+  - the Shop link in the footer opens the band's merchandise website in a new tab
 - As a Snuts fan, I want to find out how to connect with them and follow them on social media
- - the social media links in the footer direct the user to the band's Facebook, Twitter, Instagram and YouTube pages
+  - the social media links in the footer direct the user to the band's Facebook, Twitter, Instagram and YouTube pages
 - As a music promotor and venue owner, I want to find out about the band’s popularity, fan following and reputation
- - the reviews in the index page and the content of the about page describe the band's popularity and growing reputation. The charity links on the 
+  - the reviews in the index page and the content of the about page describe the band's popularity and growing reputation. The charity links on the 
  index page also promote the band's ethics.
 - As a music promotor and venue owner, I want to be able to contact the band to enquire about bookings
- - the contact page (although non-functioning at this time) allows contact to the band or band's management
+  - the contact page (although non-functioning at this time) allows contact to the band/band's management

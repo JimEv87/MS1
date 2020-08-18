@@ -102,7 +102,7 @@ The footer contains:
 
 ## Testing
 
-Testing log can be seen [here](#)
+Testing log can be seen [here](https://github.com/JimEv87/MS1/blob/master/testing.md)
 
 ## Deployment
 
