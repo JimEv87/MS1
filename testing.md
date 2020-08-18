@@ -13,7 +13,7 @@ All HTML code has passed [HTML Validation](https://validator.w3.org/#validate_by
 
 CSS code passed [CSS Validation](https://jigsaw.w3.org/css-validator/)
 
-![Image of validated CSS](https://github.com/JimEv87/MS1/blob/master/assets/testing/CSSChecker.PNG)
+![Image of validated CSS](https://github.com/JimEv87/MS1/blob/master/testing/CSSChecker.PNG)
 
 ## Browser Testing
 
