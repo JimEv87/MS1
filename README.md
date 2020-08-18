@@ -103,7 +103,7 @@ The footer contains:
 
 ## Testing
 
-As well as my own thorough testing, the website has been tested by friends and family and the feedback was that the site looks good and is easy to navigate, all images, links and features work well on a wide variety of devices and browsers.  The full esting log can be seen [here](https://github.com/JimEv87/MS1/blob/master/testing.md)
+As well as my own thorough testing, the website has been tested by friends and family and the feedback was that the site looks good and is easy to navigate, all images, links and features work well on a wide variety of devices and browsers.  The full testing log can be seen [here](https://github.com/JimEv87/MS1/blob/master/testing.md)
 
 ## Deployment
 
