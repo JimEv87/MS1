@@ -199,7 +199,7 @@ footer {
   padding-top: 5vh;
   padding-bottom: 20vh;
   font-family: "Roboto Slab", serif;
-  font-size: large;
+  font-size: small;
 }
 
 .about-page-content {
@@ -327,6 +327,10 @@ footer {
   .about-page img {
     height: 300px;
     width: 450px;
+  }
+
+  .about-page {
+      font-size: large;
   }
 
   .tour-page img {
